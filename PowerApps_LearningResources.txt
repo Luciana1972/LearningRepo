@@ -1,2 +1,0 @@
-https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/
-docs.microsoft.com - Learn - Introduction to Power Automate
